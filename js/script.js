@@ -1,6 +1,6 @@
 
 //calling function after every 1 second 
-//setInterval(mySeconds, 1000);
+setInterval(mySeconds, 1000);
 
 
 function mySeconds() {
