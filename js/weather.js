@@ -22,7 +22,7 @@ function getResults(query) {
 
 // invalid location will not be handled 
 function displayResults(weather) {
-document.querySelector('.search-box').style.display = 'none';
+    document.querySelector('.search-box').style.display = 'none';
     let temp = document.querySelector('#temp');
     temp.innerHTML = `${Math.round(weather.main.temp)}`;
 }
