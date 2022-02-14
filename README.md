@@ -6,4 +6,4 @@ Digital Clock designed using HTML,CSS,JS with temprature fetched using openweath
 
 # Screenshot 
 
-<img src="https://github.com/makerofdreams/Digital-Clock-With-Temprature/blob/master/Screenshot.png" width="800px" title="hover text">
+<img src="https://github.com/makerofdreams/Digital-Clock-With-Temprature/blob/master/Screenshot.png" width="800px" title="Weather Clock">
