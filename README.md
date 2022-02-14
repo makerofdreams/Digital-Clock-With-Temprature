@@ -3,6 +3,8 @@
 # Project Details
 Digital Clock designed using HTML,CSS,JS with temprature fetched using openweather's API.
 
+# Live Demo(PC Only)
+https://makerofdreams.github.io/Digital-Clock-With-Temprature/
 
 # Screenshot 
 
